@@ -8,7 +8,9 @@
         love to go to new places and i am a foodie. 
 ### Skills:
         HTML, CSS, javascript, ExpressJS, mongoDB, React
-### Contact Me
+### Contact Me:
+        email: sarkar.dipankar9999@gmail.com
+### **[Linkedin](https://www.linkedin.com/in/dipankar-sarkar-profile/)**
 
 
            
