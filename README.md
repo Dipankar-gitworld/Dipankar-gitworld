@@ -1,23 +1,32 @@
-## Hi, I’m Dipankar
+<h1 align="center">Hi 👋, I'm Diapnkar</h1>
+<h3 align="center">A passionate aspiring full stack web developer.</h3>
 
-## About Me 
-I am an aspiring full stack web developer. 
-I am very passionate about technology. 
-I love to learn new technologies. 
-Other than tech i love football, listen to music,love to go to new places and i am a foodie. 
-## Skills
-<img align="center" margin-right="30px" alt="css" width="50px"  src="/images/css.png" /> <img align="center" alt="html" width="50px" src="/images/html.png" /> <img align="center" alt="javascript" width="50px" src="/images/js.png" /> <img align="center" alt="nodejs" width="50px" src="/images/nodejs.png" /> <img align="center" alt="expressjs" width="50px" src="/images/express.png" /> <img align="center" alt="mongodb" width="50px" src="/images/mongodb.png" /> <img align="center" alt="react" width="50px"  src="/images/react.jpg" />   
-<br/>
+- 🌱 I’m currently learning **React**
 
-## Contact Me  
+- 👨‍💻 All of my projects are available at [https://dipankar-portfolio-dipankar-gitworld.vercel.app/](https://dipankar-portfolio-dipankar-gitworld.vercel.app/)
 
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **sarkar.dipankar9999@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zqohjT8Czsw4ss7LHk0CjXqjLth-sHUz/view](https://drive.google.com/file/d/1zqohjT8Czsw4ss7LHk0CjXqjLth-sHUz/view)
 
 
-[1]: https://www.linkedin.com/in/dipankar-sarkar-profile/
-[2]: https://gmail.com
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 
-           
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <p align="left">
+<a href="https://linkedin.com/in/nkedin.com/in/dipankar-sarkar-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkedin.com/in/dipankar-sarkar-profile/" height="30" width="40" /></a>
+</p>          
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipankar-gitworld&show_icons=true&locale=en" alt="dipankar-gitworld" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-gitworld&" alt="dipankar-gitworld" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipankar-gitworld&show_icons=true&locale=en&layout=compact" alt="dipankar-gitworld" /></p>
+
+          
 
