@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dipankar-portfolio-dipankar-gitworld.vercel.app/](https://dipankar-portfolio-dipankar-gitworld.vercel.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, javascript**
 
 - 📫 How to reach me **sarkar.dipankar9999@gmail.com**
 
