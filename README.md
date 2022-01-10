@@ -6,7 +6,8 @@
         I love to learn new technologies.
         Other than tech i love football, listen to music, 
         love to go to new places and i am a foodie. 
-### How to reach me:
+### Skills:
+![HTML!](/images/html5.png)
 
            
 
