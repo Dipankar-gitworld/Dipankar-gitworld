@@ -1,8 +1,11 @@
 ### 👋 , I’m Dipankar
 
 ### About Me
-           I am an aspiring full stack web developer. I am very passionate about technology. I love to learn new technologies.
-           Other than tech i love football, listen to music, love to go to new places and i am a foodie. 
+           I am an aspiring full stack web developer.
+           I am very passionate about technology.
+           I love to learn new technologies.
+           Other than tech i love football, listen to music, 
+           love to go to new places and i am a foodie. 
 ### How to reach me:
 
            
