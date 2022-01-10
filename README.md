@@ -7,7 +7,9 @@
         Other than tech i love football, listen to music, 
         love to go to new places and i am a foodie. 
 ### Skills:
-![HTML!](/images/html5.png)
+        HTML, CSS, javascript, ExpressJS, mongoDB, React
+### Contact Me
+
 
            
 
