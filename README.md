@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diapnkar</h1>
 <h3 align="center">A passionate aspiring full stack web developer.</h3>
-
+<img width="400px" src="https://dribbble.com/shots/11391612-hello-and-welcome-GIF-for-newsletter/attachments/3005566?mode=media" />
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://dipankar-portfolio-dipankar-gitworld.vercel.app/](https://dipankar-portfolio-dipankar-gitworld.vercel.app/)
