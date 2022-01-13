@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diapnkar</h1>
 
-<h1 align="center">About Me<h1/>
+
  <p align="center"> I am a passionate aspiring full stack developer. My passion for technology has brought me to learn HTML, CSS, javascript, node.js, express, React and many other tach stacks. Other than technology I love football, listening to music, explore nauture and i am a foodie too.
 <p/>
  
