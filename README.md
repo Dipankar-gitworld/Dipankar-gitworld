@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dipankar Sarkar</h1>
 
-<p align="center">I am a Full Stack Developer specializing in building scalable, event-driven applications. With hands-on experience in JavaScript, React, Python, Node.js, and AWS, I work on microservices and distributed systems, primarily in the fintech space. When I'm not coding, I enjoy football, music, exploring nature, and, of course, good food! 🍕⚽🎵</p>
+<p align="center">I am a Full Stack Developer specializing in building scalable, event-driven applications. With hands-on experience in Python, JavaScript, Angular, React, Node.js, and AWS, I work on microservices and distributed systems, primarily in the fintech space. When I'm not coding, I enjoy football, music, exploring nature, and, of course, good food! 🍕⚽🎵</p>
 
 ---
 
 ### 🚀 About Me
 - 💻 Currently working as a **Full Stack Developer** at Apollo Finvest.
-- 🔧 I work with **React, Angular, Node.js, Python, AWS, and microservices architecture**.
-- 📈 Built scalable financial solutions, KYC verification systems, and automated loan processing.
+- 🔧 I work with **Python, AWS, React, Angular, Node.js**.
+- 📈 Built scalable financial solutions.
 - 🌱 Learning and exploring **distributed systems and advanced backend architectures**.
-- 💬 Ask me about **React, JavaScript, Python, and event-driven systems**.
+- 💬 Ask me about **distributed and event-driven systems**.
 - 📫 Reach me at **[sarkar.dipankar9999@gmail.com](mailto:sarkar.dipankar9999@gmail.com)**
-- 🏗️ Check out my portfolio: **[dipankar-portfolio](https://dipankar-portfolio-dipankar-gitworld.vercel.app/)**
-- 📄 [My Resume](https://drive.google.com/file/d/1zqohjT8Czsw4ss7LHk0CjXqjLth-sHUz/view)
 
 ---
 
@@ -40,17 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipankar-gitworld&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar-gitworld&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
